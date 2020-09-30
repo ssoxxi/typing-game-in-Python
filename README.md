@@ -1,1 +1,1 @@
-# typing-game-in-Python
+# Typing Game in Python
